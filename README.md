@@ -4,7 +4,7 @@
 The code can be run using a web client such as Postman. The link to the documentation is :
 https://web.postman.co/workspace/3fb47e1d-977f-4174-8606-22b882fc4915/documentation/17594129-5341c56d-b592-4c51-ae15-aac5841e84bb
 
-##Generate Coverage Report
+## Generate Coverage Report
 
 From the main menu, select Run | Generate Coverage Report, or click the Generate Coverage Report button in the Coverage tool window.
 
@@ -16,7 +16,7 @@ If there are several projects opened in the same window, make sure that the sugg
 
 Click Save.
 
-##Run tests
+## Run tests
 Place the caret at the test class to run all tests in that class, or at the test method, and press ⌃ ⇧ R. Alternatively, click the gutter icon next to the test class or test method.
 
 The gutter icon changes depending on the state of your test:
@@ -29,7 +29,7 @@ The the Rerun the Run button gutter icon marks failed tests.
 
 Running a test using the gutter icon
 
-##UML Diagram
+## UML Diagram
 Uml diagram showing the various class relationships
 
-![](../../Documents/enyata_img.png)
+ ![](../../Documents/enyata_img.png)
