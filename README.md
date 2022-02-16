@@ -32,4 +32,6 @@ Running a test using the gutter icon
 ## UML Diagram
 Uml diagram showing the various class relationships
 
- ![](../../Documents/enyata_img.png)
+
+
+![enyata_img](https://user-images.githubusercontent.com/76076990/154235884-d553f74c-535b-4d97-a6ee-1364e5b0aa5c.png)
